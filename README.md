@@ -1,3 +1,3 @@
 # MultiRobotFormationControl
 
-![Formation Control in Action](animation.mp4)
+![Formation Control in Action](animation.gif)
